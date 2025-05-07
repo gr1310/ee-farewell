@@ -1,0 +1,342 @@
+{
+  "What will you miss the most about college": [
+    {
+      "answer": "Friends",
+      "count": 25
+    },
+    {
+      "answer": "Labs/Classes",
+      "count": 8
+    },
+    {
+      "answer": "Faculty",
+      "count": 7
+    },
+    {
+      "answer": "Bunking Classes",
+      "count": 6
+    }
+  ],
+  "What do you do in class when the professor is not looking": [
+    {
+      "answer": "Chat with friends",
+      "count": 13
+    },
+    {
+      "answer": "Sleep",
+      "count": 13
+    },
+    {
+      "answer": "Play Games",
+      "count": 8
+    },
+    {
+      "answer": "Scroll Instagram",
+      "count": 7
+    }
+  ],
+  "What's the first thing you do after submitting the final exam": [
+    {
+      "answer": "Sleep for 12 hours",
+      "count": 19
+    },
+    {
+      "answer": "Rush to Canteen",
+      "count": 10
+    },
+    {
+      "answer": "Discuss Answers",
+      "count": 6
+    },
+    {
+      "answer": "Outing",
+      "count": 5
+    },
+    {
+      "answer": "Group Photos",
+      "count": 4
+    }
+  ],
+  "What's your usual excuse for not submitting an assignment": [
+    {
+      "answer": "Not feeling well",
+      "count": 12
+    },
+    {
+      "answer": "Completed but forgot to submit",
+      "count": 11
+    },
+    {
+      "answer": "Fest/Club Work",
+      "count": 8
+    },
+    {
+      "answer": "I thought it was due tomorrow",
+      "count": 7
+    },
+    {
+      "answer": "Exams Coming Up",
+      "count": 7
+    }
+  ],
+  "What's your usual excuse for coming late for class": [
+    {
+      "answer": "Overslept",
+      "count": 16
+    },
+    {
+      "answer": "Crowded Mess",
+      "count": 14
+    },
+    {
+      "answer": "Not feeling well",
+      "count": 11
+    },
+    {
+      "answer": "Previous class got delayed",
+      "count": 2
+    },
+    {
+      "answer": "Went to washroom",
+      "count": 1
+    }
+  ],
+  "Name something that always happens during a lab session": [
+    {
+      "answer": "Circuit doesn't work",
+      "count": 21
+    },
+    {
+      "answer": "Forgetting to turn on power supply",
+      "count": 13
+    },
+    {
+      "answer": "Copy readings",
+      "count": 12
+    },
+    {
+      "answer": "Something blows up",
+      "count": 6
+    },
+    {
+      "answer": "Misplace components",
+      "count": 5
+    }
+  ],
+  "What's the most common item you forget to bring to class/lab/exam": [
+    {
+      "answer": "Brain",
+      "count": 19
+    },
+    {
+      "answer": "Calculator",
+      "count": 11
+    },
+    {
+      "answer": "Notebook",
+      "count": 8
+    },
+    {
+      "answer": "Shoes",
+      "count": 8
+    },
+    {
+      "answer": "Pen",
+      "count": 5
+    }
+  ],
+  "Subjects that scared you the most ": [
+    {
+      "answer": "Digital Signal Processing",
+      "count": 13
+    },
+    {
+      "answer": "Electrical Machines",
+      "count": 12
+    },
+    {
+      "answer": "Solid State Devices",
+      "count": 8
+    },
+    {
+      "answer": "Electromagnetism",
+      "count": 8
+    },
+    {
+      "answer": "Communications",
+      "count": 4
+    }
+  ],
+  "Components which usually don't work in lab": [
+    {
+      "answer": "ICs",
+      "count": 16
+    },
+    {
+      "answer": "Brain",
+      "count": 14
+    },
+    {
+      "answer": "Breadboard",
+      "count": 12
+    },
+    {
+      "answer": "Wires",
+      "count": 9
+    },
+    {
+      "answer": "IC Tester",
+      "count": 6
+    }
+  ],
+  "How do you complete an assignment in impossible time constraints": [
+    {
+      "answer": "Beg for postponement",
+      "count": 19
+    },
+    {
+      "answer": "ChatGPT",
+      "count": 16
+    },
+    {
+      "answer": "Copy Assignment",
+      "count": 14
+    },
+    {
+      "answer": "Scam and Submit",
+      "count": 7
+    },
+    {
+      "answer": "Not Submit",
+      "count": 6
+    }
+  ],
+  "What do you do after getting your answer scripts": [
+    {
+      "answer": "Laugh to hide pain",
+      "count": 15
+    },
+    {
+      "answer": "Ask friends' marks",
+      "count": 11
+    },
+    {
+      "answer": "Throw it away",
+      "count": 10
+    },
+    {
+      "answer": "Fight for more marks",
+      "count": 5
+    },
+    {
+      "answer": "Cry",
+      "count": 4
+    }
+  ],
+  "How do you copy during exam": [
+    {
+      "answer": "Ask answers from friends",
+      "count": 12
+    },
+    {
+      "answer": "Ask TAs",
+      "count": 11
+    },
+    {
+      "answer": "Go to washroom",
+      "count": 5
+    },
+    {
+      "answer": "Bring chits",
+      "count": 2
+    }
+  ],
+  "What\u2019s the most common reason for a circuit not working in the lab": [
+    {
+      "answer": "IC Damaged",
+      "count": 19
+    },
+    {
+      "answer": "Incorrect Connection",
+      "count": 12
+    },
+    {
+      "answer": "Forgot to turn on supply",
+      "count": 11
+    },
+    {
+      "answer": "Broken wires",
+      "count": 8
+    },
+    {
+      "answer": "Broken breadboard",
+      "count": 7
+    }
+  ],
+  "What\u2019s a common reason you get scolded in class": [
+    {
+      "answer": "Talking",
+      "count": 13
+    },
+    {
+      "answer": "No reason",
+      "count": 10
+    },
+    {
+      "answer": "Using Mobile",
+      "count": 8
+    },
+    {
+      "answer": "Yawning/Sleeping",
+      "count": 8
+    },
+    {
+      "answer": "Coming Late",
+      "count": 7
+    }
+  ],
+  "What do you actually do during a \u201cgroup study session\u201d": [
+    {
+      "answer": "Chat/Gossip",
+      "count": 21
+    },
+    {
+      "answer": "Eat Snacks",
+      "count": 11
+    },
+    {
+      "answer": "Scroll Instagram",
+      "count": 10
+    },
+    {
+      "answer": "Sleep",
+      "count": 4
+    },
+    {
+      "answer": "Watch Movies",
+      "count": 1
+    }
+  ],
+  "Tricks to pass a Viva": [
+    {
+      "answer": "Confuse TA",
+      "count": 21
+    },
+    {
+      "answer": "Start with \"Basically...\"",
+      "count": 12
+    },
+    {
+      "answer": "Use random jargon",
+      "count": 10
+    },
+    {
+      "answer": "Ask Question",
+      "count": 7
+    },
+    {
+      "answer": "Narrate a story",
+      "count": 4
+    }
+  ]
+}
