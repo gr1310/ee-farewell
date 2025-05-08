@@ -1,5 +1,5 @@
 {
-  "What will you miss the most about college": [
+  "What will students miss the most about college": [
     {
       "answer": "Friends",
       "count": 25
@@ -17,7 +17,7 @@
       "count": 6
     }
   ],
-  "What do you do in class when the professor is not looking": [
+  "What do students do in class when the professor is not looking": [
     {
       "answer": "Chat with friends",
       "count": 13
@@ -35,7 +35,7 @@
       "count": 7
     }
   ],
-  "What's the first thing you do after submitting the final exam": [
+  "What's the first thing students do after submitting the final exam": [
     {
       "answer": "Sleep for 12 hours",
       "count": 19
@@ -57,7 +57,7 @@
       "count": 4
     }
   ],
-  "What's your usual excuse for not submitting an assignment": [
+  "What's students' usual excuse for not submitting an assignment": [
     {
       "answer": "Not feeling well",
       "count": 12
@@ -79,7 +79,7 @@
       "count": 7
     }
   ],
-  "What's your usual excuse for coming late for class": [
+  "What's students' usual excuse for coming late for class": [
     {
       "answer": "Overslept",
       "count": 16
@@ -123,7 +123,7 @@
       "count": 5
     }
   ],
-  "What's the most common item you forget to bring to class/lab/exam": [
+  "What's the most common item students forget to bring to class/lab/exam": [
     {
       "answer": "Brain",
       "count": 19
@@ -145,7 +145,7 @@
       "count": 5
     }
   ],
-  "Subjects that scared you the most ": [
+  "Subjects that scared students the most ": [
     {
       "answer": "Digital Signal Processing",
       "count": 13
@@ -189,7 +189,7 @@
       "count": 6
     }
   ],
-  "How do you complete an assignment in impossible time constraints": [
+  "How do students complete an assignment in impossible time constraints": [
     {
       "answer": "Beg for postponement",
       "count": 19
@@ -211,7 +211,7 @@
       "count": 6
     }
   ],
-  "What do you do after getting your answer scripts": [
+  "What do students do after getting their answer scripts": [
     {
       "answer": "Laugh to hide pain",
       "count": 15
@@ -233,7 +233,7 @@
       "count": 4
     }
   ],
-  "How do you copy during exam": [
+  "How do students copy during exam": [
     {
       "answer": "Ask answers from friends",
       "count": 12
@@ -251,7 +251,7 @@
       "count": 2
     }
   ],
-  "What\u2019s the most common reason for a circuit not working in the lab": [
+  "What's the most common reason for a circuit not working in the lab": [
     {
       "answer": "IC Damaged",
       "count": 19
@@ -273,7 +273,7 @@
       "count": 7
     }
   ],
-  "What\u2019s a common reason you get scolded in class": [
+  "What's a common reason students get scolded in class": [
     {
       "answer": "Talking",
       "count": 13
@@ -295,7 +295,7 @@
       "count": 7
     }
   ],
-  "What do you actually do during a \u201cgroup study session\u201d": [
+  "What do students actually do during a \u201cgroup study session\u201d": [
     {
       "answer": "Chat/Gossip",
       "count": 21
